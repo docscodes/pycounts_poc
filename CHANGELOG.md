@@ -1,9 +1,18 @@
 # CHANGELOG
 
 
+## v0.3.1 (2024-10-26)
+
+### Unknown
+
+* Merge branch 'master' of github.com:docscodes/pycounts_poc ([`0b24012`](https://github.com/docscodes/pycounts_poc/commit/0b24012890723779b0a7a13314c4ee33678fe315))
+
+
 ## v0.3.0 (2024-10-26)
 
 ### Bug Fixes
+
+* fix: config semantic-release to build project ([`6fef3d9`](https://github.com/docscodes/pycounts_poc/commit/6fef3d9c267ff835c695cfeaebecfa32f992c87f))
 
 * fix: add tokens ([`934662d`](https://github.com/docscodes/pycounts_poc/commit/934662db9266eded5b64b503bb523b21605ad917))
 
