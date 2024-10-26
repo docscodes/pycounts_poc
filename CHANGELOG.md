@@ -1,6 +1,25 @@
 # CHANGELOG
 
 
+## v0.3.0 (2024-10-26)
+
+### Bug Fixes
+
+* fix: add tokens ([`934662d`](https://github.com/docscodes/pycounts_poc/commit/934662db9266eded5b64b503bb523b21605ad917))
+
+### Build System
+
+* build: add CI workflow ([`d9e9de4`](https://github.com/docscodes/pycounts_poc/commit/d9e9de42dbcfad85788be02ab606dcb4572c9378))
+
+### Features
+
+* feat: add CI/CD workflow ([`8e4a46e`](https://github.com/docscodes/pycounts_poc/commit/8e4a46e12b007ba600e720687b63f04a09070808))
+
+### Unknown
+
+* Create main.yml ([`74152bd`](https://github.com/docscodes/pycounts_poc/commit/74152bd0088392c00ec60a5cf481c4b8f06f655e))
+
+
 ## v0.2.0 (2024-10-25)
 
 ### Features
